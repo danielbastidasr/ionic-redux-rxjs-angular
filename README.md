@@ -2,7 +2,7 @@
 Basic App using Redux/React for state management.  Ionic Components for Angular 5.
 
 
-#How to use these files
+# How to use these files
 
 You're downloading a finished Ionic 3 project. The following steps allow you to run it:
 
